@@ -1,4 +1,4 @@
-# terraform-aws-secure-baseline_testing webhook
+# terraform-aws-secure-baseline
 
 [![Github Actions](https://github.com/nozaq/terraform-aws-secure-baseline/workflows/Terraform/badge.svg)](https://github.com/nozaq/terraform-aws-secure-baseline/actions?workflow=Terraform)
 
